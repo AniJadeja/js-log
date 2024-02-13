@@ -7,4 +7,4 @@ class Log {
   static e = log.e;
 }
 
-module.exports = { Log };
+module.exports = Log ;
