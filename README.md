@@ -51,3 +51,12 @@ DEBUG  2/12/2024, 20:39:59.143 EST => app.js:76:7 => foo => Greetings Message : 
 WARN   2/12/2024, 20:39:59.144 EST => app.js:77:7 => foo => Greetings Message : Hello World!
 ERROR  2/12/2024, 20:39:59.144 EST => app.js:78:7 => foo => Greetings Message : Hello World!
 ```
+
+
+
+
+###Notes
+1. As of now, It only supports `string` , `number ` and `JSON` data types.
+2. It is only tested in Express.js
+3. While other datatypes may get printed, they are not been tested thorouhgly.
+4. All of the arguments are optional. 
