@@ -4,9 +4,11 @@ Simple logger module to print the file level logs in console.
 It prints date,time, calling file name and calling method name automatically and allows user to focus on the actual values they are concerned with.
 
 ###Installation
+
 To install the package, clone this repo and copy into node_modules folder.
 
 ###Usage
+
 A log must have a type and  currently this package supports 4 different logging types
 i. Warning
 ii. Info
